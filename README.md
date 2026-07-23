@@ -1,49 +1,54 @@
 # Priority Tracker Osis
 
-A professional project for Priority Tracker Osis.
+A professional SPA Web Application built with React (Vite/CRA).
 
 ## Screenshot
 
-![Placeholder](https://via.placeholder.com/800x400.png?text=Priority-Tracker-Osis)
+![Priority Tracker Osis](src/assets/hero.png)
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Responsive Design
+- Modern UI/UX
+- Clean Code Architecture
+- Client-Side Routing
+- Component-Based UI
 
 ## Tech Stack
 
-- TBD
+- **Core**: React (Vite/CRA)
+- **Dependencies**: lucide-react, react, react-dom, @eslint/js, @tailwindcss/vite and more...
 
 ## Folder Structure
 
-`
-+-- src/
-+-- docs/
-+-- .gitignore
-+-- README.md
-+-- LICENSE
-`
+```
+├── src/            # Source code
+├── docs/           # Project documentation (PRD, BRD, SRS)
+├── public/         # Static assets
+├── .gitignore      # Git ignored files
+├── README.md       # Project overview
+```
 
 ## Installation
 
-`ash
-git clone https://github.com/denislapianso/Denis-Lapianso_Priority-Tracker-Osis.git
+```bash
+git clone https://github.com/nisdenn/Denis-Lapianso_Priority-Tracker-Osis.git
 cd Denis-Lapianso_Priority-Tracker-Osis
-`
+npm install
+```
 
 ## Usage
 
-`ash
-# Add usage instructions here
-`
+```bash
+npm run dev
+```
 
-## Roadmap
+## Documentation
 
-- [ ] Add new features
-- [ ] Improve documentation
-- [ ] Release v1.0.0
+- [Product Requirements Document (PRD)](./docs/PRD.md)
+- [Business Requirements Document (BRD)](./docs/BRD.md)
+- [Software Requirements Specification (SRS)](./docs/SRS.md)
+- [Project Structure](./docs/PROJECT-STRUCTURE.md)
 
 ## Author
 
