@@ -2,9 +2,6 @@
 
 A professional SPA Web Application built with React (Vite/CRA).
 
-## Screenshot
-
-![Priority Tracker Osis](src/assets/hero.png)
 
 ## Features
 
