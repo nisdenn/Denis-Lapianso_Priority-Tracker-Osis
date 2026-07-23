@@ -1,6 +1,16 @@
-# Agent tools
+.env
+.env.*
 .agent
+.vscode
+.idea
+tmp
+temp
+*.log
+node_modules
+dist
+build
+coverage
+.next
+.cache
+out
 
-# OS generated files
-.DS_Store
-Thumbs.db
